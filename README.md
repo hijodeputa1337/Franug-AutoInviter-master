@@ -102,8 +102,3 @@ Note:
 Get groupid64 -> https://support.multiplay.co.uk/support/solutions/articles/1000202859-how-can-i-find-my-steam-group-64-id-
 
 Get groupid32 -> https://forums.alliedmods.net/attachment.php?attachmentid=154036&d=1461379861
-
-
-
-## Read rules here: https://github.com/Franc1sco/Franug-PRIVATE-PLUGINS
-## Dont forget to give me +rep in my steam profile ( http://steamcommunity.com/id/franug ) if you like my plugins :)
